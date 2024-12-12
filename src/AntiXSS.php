@@ -1,6 +1,7 @@
 <?php
 /**
  * App          : Pyramid PHP Fremework
+ * Packege Name : AntiXSS
  * Author       : Nihat Doğan
  * Email        : info@pyramid.com
  * Website      : https://www.pyramid.com
