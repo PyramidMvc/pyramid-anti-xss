@@ -12,7 +12,7 @@ namespace Pyramid;
 
 class AntiXSS
 {
-    // XSS'yi engellemek için karakter değişim tablosuh
+    // XSS'yi engellemek için karakter değişim tablosu
     private static $xssCleanPatterns = [
         // Script etiketleri
         '/<script\b[^>]*>(.*?)<\/script>/is' => '',
